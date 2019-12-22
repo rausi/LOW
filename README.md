@@ -13,3 +13,7 @@ Please see https://github.com/rausi/_LowFeeStake/wiki
 4. start script: ./jstart.sh
 
 If you need to stop script press ctrl+c
+
+---
+# jstart_stuck.sh script guide
+*Restart jormungundr if stuck_notifier exists in log file*
