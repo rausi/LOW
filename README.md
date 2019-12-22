@@ -7,7 +7,7 @@ Below are guide for some script files to help maintain stakepool. Note! You have
 
 Cardano/Ada Donation address: _DdzFFzCqrht2jaj8hErzXYir6SMKeAmQKXzmVpoXnahCoJwC3ZmqkznvJ2gyBVVaH1q2PFkixm9JEBRFiprE2oC8pWiaccyxDWTg3Q31_
 
-Of delegate ADA to my stakepool (currently Incentivized Testnet phase)
+OR delegate ADA to my stakepool (currently Incentivized Testnet phase)
 
 ---
 # jstart.sh script guide (Ubuntu 18.04.3 LTS)
