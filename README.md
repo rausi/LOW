@@ -2,7 +2,9 @@
 Cardano staking pool information
 Please see https://github.com/rausi/_LowFeeStake/wiki
 
-# Restart jormungundr after defined wait time - jstart.sh script guide
+---
+# jstart.sh script guide
+*Restart jormungundr after defined wait time*
 1. copy jstart.sh file to same directory than your jcli and jormungandr
 2. edit file<br>
   2.1 define wait time (row 9) before jormungandr shutdwon. Example 6h --> sleep 6h<br>
