@@ -23,3 +23,4 @@ If you need to stop script press ctrl+c
 4. Edit file. Check port number and define sleep time etc.
 5. Run command: chmod +x jstart.sh
 6. Start script: ./jstart.sh
+7. check log file status: cat ./logs/test.log
