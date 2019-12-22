@@ -9,7 +9,7 @@ do
  #define waiting time to be minute (m), hours (h) or days (d) --> after wait time jormungandr is stopped and then started again. 
  sleep 6h
  echo "stopping"
- ./jcli rest v0 shutdown get --host "http://127.0.0.1:3232/api" 
+ ./jcli rest v0 shutdown get --host "http://127.0.0.1:3100/api" 
  sleep 2
  #use pidof and kill if ./jcli shutdown not working
  #PID=$(pidof jormungandr)
