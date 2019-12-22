@@ -1,12 +1,15 @@
-# _LowFeeStake - Stakepool
+# _LowFeeStake (LOW) - Stakepool
 Cardano staking pool information
 Please see https://github.com/rausi/_LowFeeStake/wiki
 
 ---
+Below are guide for some script files to help maintain stakepool.
+
 Cardano/Ada Donation address: _DdzFFzCqrht2jaj8hErzXYir6SMKeAmQKXzmVpoXnahCoJwC3ZmqkznvJ2gyBVVaH1q2PFkixm9JEBRFiprE2oC8pWiaccyxDWTg3Q31_
 
----
+Of delegate ADA to my stakepool (currently Incentivized Testnet phase)
 
+---
 # jstart.sh script guide (Ubuntu 18.04.3 LTS)
 *Restart jormungundr after defined wait time*
 1. copy jstart.sh file to same directory than your jcli and jormungandr
