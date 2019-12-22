@@ -29,4 +29,6 @@ If you need to stop script press ctrl+c
 6. Start script: ./jstart.sh
 7. check log file status: cat ./logs/test.log
 
+![Distribution](https://github.com/rausi/_LowFeeStake/blob/master/stuck_notifier.PNG)
+
 ---
