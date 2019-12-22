@@ -28,7 +28,7 @@ If you need to stop script press ctrl+c
 2. Make sure you have line --> "output": { "file": "./logs/test.log" } --> in your itn_rewards_v1-config.yaml file
 3. copy jstart_stuck.sh file to same directory than your jcli and jormungandr
 4. Edit file. Check port number and define sleep time etc.
-5. Run command: chmod +x jstart.sh
+5. Run command: chmod +x jstart_stuck.sh
 6. Start script: ./jstart.sh (Note! second terminal window is opened. Do not close windows)
 7. check log file status if needed: cat ./logs/test.log (!Note open new terminal window)
 
