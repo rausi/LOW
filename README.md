@@ -7,7 +7,7 @@ Cardano/Ada Donation address: _DdzFFzCqrht2jaj8hErzXYir6SMKeAmQKXzmVpoXnahCoJwC3
 
 ---
 
-# jstart.sh script guide
+# jstart.sh script guide (Ubuntu 18.04.3 LTS)
 *Restart jormungundr after defined wait time*
 1. copy jstart.sh file to same directory than your jcli and jormungandr
 2. edit file<br>
@@ -19,15 +19,15 @@ Cardano/Ada Donation address: _DdzFFzCqrht2jaj8hErzXYir6SMKeAmQKXzmVpoXnahCoJwC3
 If you need to stop script press ctrl+c
 
 ---
-# jstart_stuck.sh script guide
+# jstart_stuck.sh script guide (Ubuntu 18.04.3 LTS)
 *Restart jormungundr if stuck_notifier exists in log file*
 1. mkdir logs to same directory than your jcli and jormungandr
-2. Make sure you have line --> output": { "file": "./logs/test.log" } --> in your itn_rewards_v1-config.yaml file
+2. Make sure you have line --> "output": { "file": "./logs/test.log" } --> in your itn_rewards_v1-config.yaml file
 3. copy jstart_stuck.sh file to same directory than your jcli and jormungandr
 4. Edit file. Check port number and define sleep time etc.
 5. Run command: chmod +x jstart.sh
-6. Start script: ./jstart.sh
-7. check log file status: cat ./logs/test.log
+6. Start script: ./jstart.sh (Note! second terminal window is opened. Do not close windows)
+7. check log file status if needed: cat ./logs/test.log (!Note open new terminal window)
 
 ![Distribution](https://github.com/rausi/_LowFeeStake/blob/master/stuck_notifier.PNG)
 
