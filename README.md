@@ -17,7 +17,7 @@ If you need to stop script press ctrl+c
 ---
 # jstart_stuck.sh script guide *to be added soone*
 *Restart jormungundr if stuck_notifier exists in log file*
-1.mkdir logs to same directory than your jcli and jormungandr
+1. mkdir logs to same directory than your jcli and jormungandr
 2. Make sure you have line --> output": { "file": "./logs/test.log" } --> in your itn_rewards_v1-config.yaml file
 3. copy jstart_stuck.sh file to same directory than your jcli and jormungandr
 4. Edit file. Check port number and define sleep time etc.
