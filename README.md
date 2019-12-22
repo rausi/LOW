@@ -10,4 +10,4 @@ Please see https://github.com/rausi/_LowFeeStake/wiki
 3. run commend: chmod +x jstart.sh
 4. start script: ./jstart.sh
 
-If you need to stop script press <ctrl>+<c>
+If you need to stop script press ctrl+c
