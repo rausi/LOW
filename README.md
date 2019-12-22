@@ -15,7 +15,7 @@ Please see https://github.com/rausi/_LowFeeStake/wiki
 If you need to stop script press ctrl+c
 
 ---
-# jstart_stuck.sh script guide *to be added soone*
+# jstart_stuck.sh script guide
 *Restart jormungundr if stuck_notifier exists in log file*
 1. mkdir logs to same directory than your jcli and jormungandr
 2. Make sure you have line --> output": { "file": "./logs/test.log" } --> in your itn_rewards_v1-config.yaml file
