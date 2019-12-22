@@ -3,6 +3,10 @@ Cardano staking pool information
 Please see https://github.com/rausi/_LowFeeStake/wiki
 
 ---
+Cardano/Ada Donation address: _DdzFFzCqrht2jaj8hErzXYir6SMKeAmQKXzmVpoXnahCoJwC3ZmqkznvJ2gyBVVaH1q2PFkixm9JEBRFiprE2oC8pWiaccyxDWTg3Q31_
+
+---
+
 # jstart.sh script guide
 *Restart jormungundr after defined wait time*
 1. copy jstart.sh file to same directory than your jcli and jormungandr
