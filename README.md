@@ -1,4 +1,4 @@
-# _LowFeeStake (LOW) - Stakepool for testing purposes only (Incentivized Testnet phase)
+# _LowFeeStake (LOW) - Stakepool (Incentivized Testnet phase)
 Cardano staking pool information
 Please see https://github.com/rausi/_LowFeeStake/wiki
 
