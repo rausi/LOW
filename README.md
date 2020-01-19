@@ -1,4 +1,4 @@
-# RausiPool Low Tax | LOW - Stakepool (Incentivized Testnet phase)
+# RausiPool Low Tax | LOW - Stakepool
 RausiPool | LOW Cardano staking pool information
 Please see https://github.com/rausi/_LowFeeStake/wiki
 
