@@ -4,8 +4,7 @@ LOW Cardano staking pool information
 Please see https://github.com/rausi/_LowFeeStake/wiki
 
 ---
-Script latest versions are available  https://github.com/rausi/RausiPool <br>
-Below are guide for some script files to help maintain stakepool. Note! You have to modify files to be compatible with your own settings e.g. port number. **Use at your own risk.**
+ITN testnet versio!!! Below are guide for some script files to help maintain stakepool. Note! You have to modify files to be compatible with your own settings e.g. port number. **Use at your own risk.**
 
 Cardano/Ada Donation address: _DdzFFzCqrht2jaj8hErzXYir6SMKeAmQKXzmVpoXnahCoJwC3ZmqkznvJ2gyBVVaH1q2PFkixm9JEBRFiprE2oC8pWiaccyxDWTg3Q31_
 
