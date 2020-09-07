@@ -1,6 +1,6 @@
-# RausiPool Low Tax | LOW - Stakepool
+# LOW - Stakepool
 ![Distribution](https://github.com/rausi/RausiPool/blob/master/RausiPoolNew.png)
-RausiPool | LOW Cardano staking pool information
+LOW Cardano staking pool information
 Please see https://github.com/rausi/_LowFeeStake/wiki
 
 ---
