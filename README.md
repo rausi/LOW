@@ -1,7 +1,6 @@
 # LOW - Stakepool
-![Distribution](https://github.com/rausi/RausiPool/blob/master/RausiPoolNew.png)
 LOW Cardano staking pool information
-Please see https://github.com/rausi/_LowFeeStake/wiki
+Please see https://github.com/rausi/LOW/wiki
 
 ---
 ITN testnet versio!!! Below are guide for some script files to help maintain stakepool. Note! You have to modify files to be compatible with your own settings e.g. port number. **Use at your own risk.**
