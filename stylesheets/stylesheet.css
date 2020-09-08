@@ -108,7 +108,7 @@ h3 {
 	font-variant: small-caps;
 	font-family: 'Squares Condensed', Squares;
 	letter-spacing: 1px;/*-.03em;*/
-	margin: 10px auto 0 auto;
+	margin: 15px auto 10px auto;
 	transition: filter .2s;
 
     /*background:
@@ -152,7 +152,7 @@ p {
 }
 p2 {
   text-align: center;
-  font-size: 26px;
+  font-size: 24px;
   margin: 5px 0 5px 0;
   color: #fff;
   text-shadow: -2px 0 #000000, 0 0 6px #fff, 0 0 6px #fff;
