@@ -123,14 +123,14 @@ h3 {
 
 }
 
-h3::before {
+/*h3::before {
 	display: block;
 	content: " ";
 	margin-top: 5px;/*0.5em;*/
 	height: 45px;/*1.2em;*/
 	visibility: hidden;
 	pointer-events: none;
-}
+} */
 
 h4 {
   font-size: 21px;
