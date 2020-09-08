@@ -102,13 +102,13 @@ h3 {
   text-align: center;
 	font-size: 36px;
 	color:#0047b3;
-	font-weight: 600;
+	font-weight: 650;
 	position: relative;
         font-style: italic;
 	font-variant: small-caps;
 	font-family: 'Squares Condensed', Squares;
 	letter-spacing: 1px;/*-.03em;*/
-	margin: 5px auto 0 auto;
+	margin: 10px auto 0 auto;
 	transition: filter .2s;
 
     /*background:
