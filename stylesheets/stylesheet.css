@@ -172,7 +172,7 @@ a {
 		linear-gradient(transparent, #51aaff 19%, transparent 19%, #fff0);
 	background-position: 0 30px;/*1.825em;*/
 	background-repeat: no-repeat;
-	text-shadow: 0 0 5px #0047b3, 0 0 5px #0047b3, 0 0 5px #0047b3
+	text-shadow: 0 0 5px #0047b3, 0 0 5px #0047b3, 0 0 10px #80b3ff
 
 }
 
