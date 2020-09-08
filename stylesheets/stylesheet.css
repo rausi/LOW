@@ -305,7 +305,12 @@ td {
 
 form {
   background: #f2f2f2;
-  padding: 20px;
+  padding: 20px;#main_content_LOW {
+  padding-top: 1px;
+  background: #003d99;
+  /*background: url('../images/blockchain.jpeg')*/
+}
+
 }
 
 /*******************************************************************************
@@ -482,6 +487,12 @@ Full-Width Styles
   background: #003d99;
   /*background: url('../images/blockchain.jpeg')*/
 }
+#main_content_LOW2 {
+  padding-top: 1px;
+  background: #80b3ff;
+  /*background: url('../images/blockchain.jpeg')*/
+}
+
 
 #footer_wrap_LOW {
   background: #000000;
