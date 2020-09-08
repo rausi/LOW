@@ -111,14 +111,14 @@ h3 {
 	margin:0 auto 0 auto;
 	transition: filter .2s;
 
-    background:
+    /*background:
                -webkit-linear-gradient(transparent, #f2f2f2 19%, transparent 19%, #fff);
 	background:
 		-o-linear-gradient(transparent, #f2f2f2 19%, transparent 19%, #fff);
 	background:
 		linear-gradient(transparent, #f2f2f2 19%, transparent 19%, #fff);
 	background-position: 0 65px;/*1.825em;*/
-	background-repeat: no-repeat;
+	/*background-repeat: no-repeat;*/
 	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff;
 
 }
@@ -621,7 +621,7 @@ Full-Width Styles
 Small Device Styles
 *******************************************************************************/
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 580px) {
   body {
     font-size:14px;
   }
@@ -631,8 +631,8 @@ Small Device Styles
   }
 
   .inner {
-    min-width: 320px;
-    max-width: 480px;
+    min-width: 420px;
+    max-width: 580px;
   }
 
   #project_title {
