@@ -126,8 +126,8 @@ h3 {
 /*h3::before {
 	display: block;
 	content: " ";
-	margin-top: 5px;/*0.5em;*/
-	height: 45px;/*1.2em;*/
+	margin-top: 5px;
+        height: 45px;
 	visibility: hidden;
 	pointer-events: none;
 } */
@@ -153,7 +153,7 @@ p {
 p2 {
   text-align: center;
   font-size: 26px;
-  margin: 10px 0 15px 0;
+  margin: 5px 0 5px 0;
   color: #fff;
   text-shadow: -2px 0 #000000, 0 0 6px #fff, 0 0 6px #fff;
 }
