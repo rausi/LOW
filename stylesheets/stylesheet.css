@@ -108,7 +108,7 @@ h3 {
 	font-variant: small-caps;
 	font-family: 'Squares Condensed', Squares;
 	letter-spacing: 1px;/*-.03em;*/
-	margin:0 auto 0 auto;
+	margin: 5px auto 0 auto;
 	transition: filter .2s;
 
     /*background:
