@@ -1,6 +1,6 @@
-# LOW - Stakepool
-LOW Cardano staking pool information
-Mainnet --> [LOW Mainnet](https://rausipool.fi/low)
+# Stakepool
+Cardano staking pool information
+
 ----------------------------
 Please see https://github.com/rausi/LOW/wiki
 
